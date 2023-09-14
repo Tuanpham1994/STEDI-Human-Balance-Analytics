@@ -7,7 +7,7 @@ You will go beyond that to write additional AWS Glue jobs to create curated step
 Project Introduction: STEDI Human Balance Analytics
 In this project, you'll act as a data engineer for the STEDI team to build a data lakehouse solution for sensor data that trains a machine learning model.
 
-#Project Details
+# Project Details
 The STEDI Team has been hard at work developing a hardware STEDI Step Trainer that:
 
 trains the user to do a STEDI balance exercise;
